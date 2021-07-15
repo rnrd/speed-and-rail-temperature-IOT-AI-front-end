@@ -1,0 +1,89 @@
+.dashboard-main-div{
+    margin-top: 10%;
+}
+
+.dashboard-card{
+    background-color:white;
+    margin-top: 10%;
+}
+
+
+.dashboard-card-cardtitle{
+    color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.dashboard-card-cardsubtitle{
+    color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.dashboard-card-1-cardicon{
+    margin-left: 45%;
+    margin-bottom: 5%;
+}
+
+
+.dashboard-card-2-cardicon{
+    margin-left: 45%;
+    margin-bottom: 5%;
+}
+
+
+.dashboard-card-3-cardicon{
+    margin-left: 45%;
+    margin-bottom: 5%;
+}
+
+.dashboard-card-4-cardicon{
+    margin-left: 45%;
+    margin-bottom: 5%;
+}
+
+
+.dashboard-card-5-cardicon{
+    margin-left: 45%;
+    margin-bottom: 5%;
+}
+
+
+.dashboard-card-6-cardicon{
+    margin-left: 45%;
+    margin-bottom: 5%;
+}
+
+.dashboard-card-7-cardicon{
+    margin-left: 45%;
+    margin-bottom: 5%;
+}
+
+.dashboard-card-weather{
+    margin-top: 10%;
+}
+
+.dashboard-container-weather{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.dashboard-weather-col-1{
+    justify-content: center;
+}
+
+.weatherTypeIcon{
+    margin-left: 42%;
+    margin-bottom: 5%;
+}
+
+.dashboard-row-2{
+    justify-content: center;
+}
+
+.dashboard-button{
+    margin-top: 2%;
+    size: large;
+}

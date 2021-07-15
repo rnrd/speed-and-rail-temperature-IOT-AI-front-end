@@ -1,0 +1,33 @@
+.prediction-main-div{
+    margin-top: 10%;
+}
+
+.prediction-container-1{
+    margin-bottom: 2%;
+}
+
+.prediction-cardtitle{
+    color:black;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}
+
+.prediction-span-card{
+    justify-content: center;
+}
+
+.prediction-span-cardicon{
+    margin-left: 45%;
+    margin-bottom: 10%;
+}
+
+.prediction-span-icon{
+    margin-left: 5px;
+}
+.prediction-h2-card{
+    color:black;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}
